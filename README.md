@@ -6,17 +6,11 @@
 
 - Hello, I am Stefan Kolev!
 
-- He/Him, Aries, Bulgarian, Christian
-
-- Day of birth: `14.04.2004`
-
-- From: `Sliven, Bulgaria`
+- He/Him, Aries, Bulgarian
 
 ### What I do?
 
 - Practicing my programming skills with more exercises. Posting all my archives in my other repositories.
-
-- Training in gym just to get a better shape (natural). Doing it only for myself.
   
 ### Education
 
@@ -52,7 +46,5 @@
 
 <div align="center">
 
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=tokyonight) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=tokyonight)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=tokyonight)](https://github.com/stefankolevv/github-readme-stats)
 </div>
