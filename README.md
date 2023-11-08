@@ -46,5 +46,9 @@
 
 <div align="center">
 
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=tokyonight)](https://github.com/stefankolevv/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=stefankolevv)
+
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=tokyonight) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=tokyonight)](https://github.com/stefankolevv/github-readme-stats)
 </div>
