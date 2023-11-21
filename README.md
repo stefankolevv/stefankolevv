@@ -35,8 +35,8 @@
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
   </a>
     <div id="badges">
-  <a href="https://tiktok.com/@stefchox">
-   <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  <a href="www.linkedin.com/in/stefankolevv">
+   <img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
     <div id="badges">
   <a href="https://www.youtube.com/@Stefan_Kolev">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
