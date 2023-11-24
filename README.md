@@ -7,10 +7,6 @@
 - Hello, I am Stefan Kolev!
 
 - He/Him, Aries, Bulgarian
-
-### What I do?
-
-- Practicing my programming skills with more exercises. Posting all my archives in my other repositories.
   
 ### Education
 
@@ -30,14 +26,11 @@
     <a href="https://www.facebook.com/stefan.kolev.56829">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
-  <div id="badges">
   <a href="https://www.instagram.com/s.kolevv">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
   </a>
-    <div id="badges">
   <a href="www.linkedin.com/in/stefankolevv">
    <img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-    <div id="badges">
   <a href="https://www.youtube.com/@Stefan_Kolev">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
 </div>
@@ -48,7 +41,5 @@
 
 ![](https://komarev.com/ghpvc/?username=stefankolevv)
 
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=tokyonight) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=tokyonight)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=tokyonight)](https://github.com/stefankolevv/github-readme-stats)
 </div>
