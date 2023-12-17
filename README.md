@@ -1,7 +1,6 @@
 <h1 align="center"> About me: </h1>
 
-<details>
-  <summary>Introduction</summary>
+### Introduction
   
 <pre>
 def stefankolevv():
@@ -11,10 +10,8 @@ def stefankolevv():
     nationality = 'Bulgarian'
     hometown = 'Sliven, Bulgaria'
 </pre>
-</details>
   
-<details>
-  <summary>Education</summary>
+### Education
   
 <pre>
 schools_data = ['Primary School: "Sv. Sv. Kiril i Metodiy" / Sliven, Bulgaria / 2011 - 2018',
@@ -22,18 +19,14 @@ schools_data = ['Primary School: "Sv. Sv. Kiril i Metodiy" / Sliven, Bulgaria / 
                 'University: "Software University" / Sofia, Bulgaria (online) / 2023 - Present'
                 ]
 </pre>
-</details>
 
-<details>
-  <summary>Working experience</summary>
+### Working experience
 
 <pre>
   working_experience = None
 </pre>
-</details>
 
-<details>
-  <summary>Socials</summary>
+### Socials
 <div align="center">
 <div id="badges">
     <a href="https://www.facebook.com/stefan.kolev.56829">
@@ -47,13 +40,10 @@ schools_data = ['Primary School: "Sv. Sv. Kiril i Metodiy" / Sliven, Bulgaria / 
 </div>
   </div>
   </details>
-<h1 align="center"> Stats: </h1>
+<h1 align="center"> Github stats: </h1>
 
-<details>
-  <summary>Click for more details</summary>
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=stefankolevv)
   
 ![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=transparent)](https://github.com/stefankolevv/github-readme-stats)
-</details>
