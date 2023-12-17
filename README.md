@@ -49,11 +49,11 @@ schools_data = ['Primary School: "Sv. Sv. Kiril i Metodiy" / Sliven, Bulgaria / 
   </details>
 <h1 align="center"> Stats: </h1>
 
+<details>
+  <summary>Click for more details</summary>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=stefankolevv)
-
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=transparent) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=transparent)](https://github.com/stefankolevv/github-readme-stats)
-</div>
+  ![](https://komarev.com/ghpvc/?username=stefankolevv)
+  
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=transparent)](https://github.com/stefankolevv/github-readme-stats)
+</details>
