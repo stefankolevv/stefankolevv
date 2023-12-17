@@ -1,3 +1,7 @@
+<div align='center'> 
+  
+![GitHubReadmeHeader](https://github.com/stefankolevv/stefankolevv/assets/68730434/9bde9537-211e-4b64-8f7a-aeee23a4d463)
+</div> 
 <h1 align="center"> About me: </h1>
 
 ### Introduction
@@ -26,7 +30,7 @@ schools_data = ['Primary School: "Sv. Sv. Kiril i Metodiy" / Sliven, Bulgaria / 
   working_experience = None
 </pre>
 
-### Socials
+<h1 align="center"> Socials: </h1>
 <div align="center">
 <div id="badges">
     <a href="https://www.facebook.com/stefan.kolev.56829">
