@@ -6,29 +6,28 @@
 
 ### Introduction
   
-<pre>
+```py
 def stefankolevv():
     real_name = 'Stefan Kolev'
     birth_date = '14/04/2004'
     pronouns = 'he/him'
     nationality = 'Bulgarian'
     hometown = 'Sliven, Bulgaria'
-</pre>
-  
+``` 
 ### Education
   
-<pre>
+```py
 schools_data = ['Primary School: "Sv. Sv. Kiril i Metodiy" / Sliven, Bulgaria / 2011 - 2018',
                 'High School: "PGEE Maria Sklodovska - Kiuri" / Sliven, Bulgaria / 2018 - 2023',
-                'University: "Software University" / Sofia, Bulgaria (online) / 2023 - Present'
+                'University: "Software University" / Sofia, Bulgaria / online studying / 2023 - Present'
                 ]
-</pre>
+```
 
 ### Working experience
 
-<pre>
-  working_experience = None
-</pre>
+```py
+working_experience = None
+```
 
 <h1 align="center"> Socials: </h1>
 <div align="center">
