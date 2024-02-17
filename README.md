@@ -1,33 +1,28 @@
-<div align='center'> 
-  
-![GitHubReadmeHeader](https://github.com/stefankolevv/stefankolevv/assets/68730434/9bde9537-211e-4b64-8f7a-aeee23a4d463)
-</div> 
 <h1 align="center"> About me: </h1>
 
-### Introduction
-  
 ```py
-def stefankolevv():
-    real_name = 'Stefan Kolev'
+def introduction():
+    name = 'Stefan Kolev'
     birth_date = '14/04/2004'
     pronouns = 'he/him'
     nationality = 'Bulgarian'
     hometown = 'Sliven, Bulgaria'
+
+def education():
+    primary_school = ['OU "Sv. Sv. Kiril i Metodiy" - Sliven', '2011 - 2018']
+    high_school = ['PGEE "Maria Sklodovska - Kiuri" - Sliven', '2018 - 2023']
+    university = ['Software University (SoftUni) - Sofia', '2023 - Present']
+
+def working_experience():
+    work = None
+
+def interests_and_hobbies():
+    interests = ['Cars', 'Self Improvement', 'Freelancing']
+    hobbies = ['Gaming', 'Design']
+
+def goals():
+    current_goal = 'Becoming a Full Stack Developer'
 ``` 
-### Education
-  
-```py
-schools_data = ['Primary School: "Sv. Sv. Kiril i Metodiy" / Sliven, Bulgaria / 2011 - 2018',
-                'High School: "PGEE Maria Sklodovska - Kiuri" / Sliven, Bulgaria / 2018 - 2023',
-                'University: "Software University" / Sofia, Bulgaria / online studying / 2023 - Present'
-                ]
-```
-
-### Working experience
-
-```py
-working_experience = None
-```
 
 <h1 align="center"> Socials: </h1>
 <div align="center">
@@ -49,4 +44,6 @@ working_experience = None
 
   ![](https://komarev.com/ghpvc/?username=stefankolevv)
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=transparent)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=transparent)](https://github.com/stefankolevv/github-readme-stats)
