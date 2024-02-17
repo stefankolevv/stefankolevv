@@ -1,4 +1,4 @@
-<h1 align="center"> About me: </h1>
+<h1 align="center"> 📝 | About me: </h1>
 
 ```py
 def introduction():
@@ -24,26 +24,26 @@ def goals():
     current_goal = 'Becoming a Full Stack Developer'
 ``` 
 
-<h1 align="center"> Socials: </h1>
+<h1 align="center"> 📱 | Socials: </h1>
 <div align="center">
 <div id="badges">
     <a href="https://www.facebook.com/stefan.kolev.56829">
-    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-222?style=for-the-badge&logo=facebook&logoColor=lightgreen" alt="Facebook Badge"/>
   <a href="https://www.instagram.com/s.kolevv">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-222?style=for-the-badge&logo=instagram&logoColor=lightgreen" alt="Instagram Badge"/>
   <a href="www.linkedin.com/in/stefankolevv">
-   <img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+   <img src="https://img.shields.io/badge/Linkedin-222?style=for-the-badge&logo=linkedin&logoColor=lightgreen" alt="LinkedIn Badge"/>
   <a href="https://www.youtube.com/@Stefan_Kolev">
-    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-222?style=for-the-badge&logo=youtube&logoColor=lightgreen" alt="Youtube Badge"/>
 </div>
   </div>
   </details>
-<h1 align="center"> Github stats: </h1>
+<h1 align="center"> 📊 | Github stats: </h1>
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=stefankolevv)
+  ![](https://komarev.com/ghpvc/?username=stefankolevv&color=green)
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=transparent)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=transparent)](https://github.com/stefankolevv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=gotham)](https://github.com/stefankolevv/github-readme-stats)
