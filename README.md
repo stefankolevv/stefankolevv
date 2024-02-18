@@ -1,3 +1,8 @@
+<div align=center>
+
+![sk_github](https://github.com/stefankolevv/stefankolevv/assets/68730434/8db8e9d7-d965-42a2-8d8e-1dcac9f7983c)
+
+</div>
 <h1 align="center"> 📝 | About me: </h1>
 
 ```py
