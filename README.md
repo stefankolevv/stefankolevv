@@ -41,4 +41,4 @@ def goals():
 
   ![](https://komarev.com/ghpvc/?username=stefankolevv&color=green)
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=chartreuse-dark&bg_color=00000000&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=chartreuse-dark&bg_color=00000000&border_color=00000000)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=chartreuse-dark&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=chartreuse-dark&border_color=00000000)](https://github.com/stefankolevv/github-readme-stats)
