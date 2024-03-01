@@ -1,10 +1,3 @@
-<div align=center>
-
-![sk_github](https://github.com/stefankolevv/stefankolevv/assets/68730434/8db8e9d7-d965-42a2-8d8e-1dcac9f7983c)
-
-</div>
-<h1 align="center"> 📝 | About me: </h1>
-
 ```py
 def introduction():
     name = 'Stefan Kolev'
@@ -29,26 +22,23 @@ def goals():
     current_goal = 'Becoming a Full Stack Developer'
 ``` 
 
-<h1 align="center"> 📱 | Socials: </h1>
 <div align="center">
 <div id="badges">
     <a href="https://www.facebook.com/stefan.kolev.56829">
-    <img src="https://img.shields.io/badge/Facebook-222?style=for-the-badge&logo=facebook&logoColor=lightgreen" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-222?style=for-the-badge&logo=facebook&logoColor=5e97ff" alt="Facebook Badge"/>
   <a href="https://www.instagram.com/s.kolevv">
-    <img src="https://img.shields.io/badge/Instagram-222?style=for-the-badge&logo=instagram&logoColor=lightgreen" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-222?style=for-the-badge&logo=instagram&logoColor=ffbc2b" alt="Instagram Badge"/>
   <a href="www.linkedin.com/in/stefankolevv">
-   <img src="https://img.shields.io/badge/Linkedin-222?style=for-the-badge&logo=linkedin&logoColor=lightgreen" alt="LinkedIn Badge"/>
+   <img src="https://img.shields.io/badge/Linkedin-222?style=for-the-badge&logo=linkedin&logoColor=1156d6" alt="LinkedIn Badge"/>
   <a href="https://www.youtube.com/@Stefan_Kolev">
-    <img src="https://img.shields.io/badge/YouTube-222?style=for-the-badge&logo=youtube&logoColor=lightgreen" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-222?style=for-the-badge&logo=youtube&logoColor=fc2b2b" alt="Youtube Badge"/>
 </div>
   </div>
   </details>
-<h1 align="center"> 📊 | Github stats: </h1>
+<h1 align="center"> Github stats: </h1>
 
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=stefankolevv&color=green)
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=gotham)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=gotham)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=gotham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=gotham)](https://github.com/stefankolevv/github-readme-stats)
