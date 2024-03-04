@@ -1,25 +1,17 @@
 ```py
-def introduction():
-    name = 'Stefan Kolev'
-    birth_date = '14/04/2004'
-    pronouns = 'he/him'
-    nationality = 'Bulgarian'
-    hometown = 'Sliven, Bulgaria'
+class Stefan:
+    def introduction(self):
+        pronouns = 'he/him'
+        birth_date = '14th April, 2004'
+        nationality = 'Bulgarian'
 
-def education():
-    primary_school = ['OU "Sv. Sv. Kiril i Metodiy" - Sliven', '2011 - 2018']
-    high_school = ['PGEE "Maria Sklodovska - Kiuri" - Sliven', '2018 - 2023']
-    university = ['Software University (SoftUni) - Sofia', '2023 - Present']
+    def education(self):
+        schools = ['OU "Sv. Sv. Kiril i Metodiy" - Sliven',
+                   'PGEE "Maria Sklodovska - Kiuri" - Sliven',
+                   'Software University']
 
-def working_experience():
-    work = None
-
-def interests_and_hobbies():
-    interests = ['Cars', 'Self Improvement', 'Freelancing']
-    hobbies = ['Gaming', 'Design']
-
-def goals():
-    current_goal = 'Becoming a Full Stack Developer'
+    def goals(self):
+        goals = 'Becoming a Full Stack Developer'
 ``` 
 
 <div align="center">
@@ -39,6 +31,6 @@ def goals():
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=stefankolevv&color=green)
+  ![](https://komarev.com/ghpvc/?username=stefankolevv&color=43bf64)
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=chartreuse-dark&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=chartreuse-dark&border_color=00000000)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=gotham&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=gotham&border_color=00000000)](https://github.com/stefankolevv/github-readme-stats)
