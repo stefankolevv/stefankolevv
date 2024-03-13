@@ -31,6 +31,6 @@ class Stefan:
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=stefankolevv&color=43bf64)
+  ![](https://komarev.com/ghpvc/?username=s-kolevv&color=43bf64)
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevv&show_icons=true&theme=gotham&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevv&theme=gotham&border_color=00000000)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kolevv&show_icons=true&theme=gotham&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kolevv&theme=gotham&border_color=00000000)](https://github.com/stefankolevv/github-readme-stats)
