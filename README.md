@@ -1,3 +1,7 @@
+<div align=center>
+    <img src=https://github.com/s-kolevv/SoftUni-Software-Engineering/assets/68730434/2cb67782-1b14-40aa-9dc4-b6936ab83ecb>
+</div>
+
 ```py
 class Stefan:
     def introduction(self):
@@ -31,6 +35,6 @@ class Stefan:
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=s-kolevv&color=43bf64)
+  ![](https://komarev.com/ghpvc/?username=s-kolevv&color=de2316)
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kolevv&show_icons=true&theme=gotham&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kolevv&theme=gotham&border_color=00000000)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kolevv&show_icons=true&theme=shadow_red&border_color=00000000&title_color=de2316&text_color=bfbfbf&icon_color=b83930) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kolevv&theme=shadow_red&border_color=00000000&title_color=de2316&text_color=bfbfbf)](https://github.com/stefankolevv/github-readme-stats)
