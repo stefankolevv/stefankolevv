@@ -1,6 +1,7 @@
 <div align=center>
     <img src=https://github.com/s-kolevv/SoftUni-Software-Engineering/assets/68730434/2cb67782-1b14-40aa-9dc4-b6936ab83ecb>
 </div>
+<h1 align="center"> 📝 | About me: </h1>
 
 ```py
 class Stefan:
@@ -17,6 +18,7 @@ class Stefan:
     def goals(self):
         goals = 'Becoming a Full Stack Developer'
 ``` 
+<h1 align="center"> 📱 | Social medias: </h1>
 
 <div align="center">
 <div id="badges">
@@ -31,7 +33,7 @@ class Stefan:
 </div>
   </div>
   </details>
-<h1 align="center"> Github stats: </h1>
+<h1 align="center"> 📊 | Github stats: </h1>
 
 <div align="center">
 
