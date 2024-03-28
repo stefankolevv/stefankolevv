@@ -8,7 +8,7 @@ class StefanKolev:
         nationality = 'Bulgarian'
 
     def education(self):
-        schools = ['OU "Sv Sv Kiril i Metodiy" - Sliven', 'PGEE "Maria Kiuri" - Sliven', 'Software University']
+        schools = ['OU "Sv. Sv. Kiril i Metodiy" - Sliven', 'PGEE "Maria Kiuri" - Sliven', 'Software University']
 
     def goals(self):
         current = 'Full Stack Developer'
