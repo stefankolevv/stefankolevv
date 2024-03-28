@@ -1,24 +1,18 @@
-<div align=center>
+<!--<div align=center>
     <img src=https://github.com/s-kolevv/SoftUni-Software-Engineering/assets/68730434/2cb67782-1b14-40aa-9dc4-b6936ab83ecb>
-</div>
-<h1 align="center"> 📝 | About me: </h1>
-
+</div>-->
 ```py
-class Stefan:
+class StefanKolev:
     def introduction(self):
         pronouns = 'he/him'
-        birth_date = '14th April, 2004'
         nationality = 'Bulgarian'
 
     def education(self):
-        schools = ['OU "Sv. Sv. Kiril i Metodiy" - Sliven',
-                   'PGEE "Maria Sklodovska - Kiuri" - Sliven',
-                   'Software University']
+        schools = ['OU "Sv Sv Kiril i Metodiy" - Sliven', 'PGEE "Maria Kiuri" - Sliven', 'Software University']
 
     def goals(self):
-        goals = 'Becoming a Full Stack Developer'
-``` 
-<h1 align="center"> 📱 | Social medias: </h1>
+        current = 'Full Stack Developer'
+```
 
 <div align="center">
 <div id="badges">
