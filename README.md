@@ -18,7 +18,7 @@ class StefanKolev:
 <div id="badges">
     <a href="https://www.facebook.com/stefanko1ev">
     <img src="https://img.shields.io/badge/Facebook-111?style=for-the-badge&logo=facebook&logoColor=5e97ff" alt="Facebook Badge"/>
-  <a href="https://www.instagram.com/stefankolev_">
+  <a href="https://www.instagram.com/s.kolevv">
     <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=ffbc2b" alt="Instagram Badge"/>
   <a href="https://www.linkedin.com/in/stefankolevv">
    <img src="https://img.shields.io/badge/Linkedin-111?style=for-the-badge&logo=linkedin&logoColor=1156d6" alt="LinkedIn Badge"/>
