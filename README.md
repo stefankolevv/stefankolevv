@@ -1,4 +1,8 @@
-<h1 align="center">Hello, I'm Stefan Kolev! 👋</h1>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4be82757-61dd-44d3-9282-40834971e6e1" alt="Stefan Kolev (stefankolevv) Banner">
+</a>
+
+<h1 align="center">Hello, I'm Stefan Kolev!</h1>
 
 ###
 
@@ -6,7 +10,12 @@
 
 ###
 
-<p align="left">•  I'm currently a student in SoftUni (Software University).<br> •  One of my goals is to become a Full-Stack Developer.</p>
+<p align="left">•  I'm currently a student in SoftUni (Software University).</p>
+<p align="left">•  One of my goals is to become a Python Full-Stack Developer.</p>
+
+###
+
+<h3 align="left">🔗 | Connections:</h3>
 
 ###
 
@@ -31,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="Pycharm Logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSC Logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo"  />
   <img width="12" />
 </div>
 
