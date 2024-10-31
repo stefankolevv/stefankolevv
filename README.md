@@ -4,20 +4,14 @@
 
 <h1 align="center">Hello, I'm Stefan Kolev!</h1>
 
-###
+<h3 align="left">「📝」About Me:</h3>
 
-<h3 align="left">✏️ | About Me:</h3>
+<p align="left">•  Currently a student in <a href='https://softuni.bg'>SoftUni</a>.</p>
+<p align="left">•  Goal: Python Full-Stack Developer.</p>
 
-###
+<hr>
 
-<p align="left">•  I'm currently a student in SoftUni (Software University).</p>
-<p align="left">•  One of my goals is to become a Python Full-Stack Developer.</p>
-
-###
-
-<h3 align="left">🔗 | Connections:</h3>
-
-###
+<h3 align="left">「🔗」Connections:</h3>
 
 <div align="center">
 <div id="badges">
@@ -28,14 +22,14 @@
 </div>
   </div>
 
-###
+<hr>
 
-<h3 align="left">🛠 | Languages and Tools:</h3>
-
-###
+<h3 align="left">「🛠」Languages and Tools:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="Pycharm Logo"  />
   <img width="12" />
@@ -45,11 +39,9 @@
   <img width="12" />
 </div>
 
-###
+<hr>
 
-<h3 align="left">📊 | Stats:</h3>
-
-###
+<h3 align="left">「📊」Stats:</h3>
 
 <div align="center">
   
