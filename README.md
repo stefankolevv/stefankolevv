@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/4be82757-61dd-44d3-9282-40834971e6e1" alt="Stefan Kolev (stefankolevv) Banner">
-</a>
-
 <h1 align="center">Hello, I'm Stefan Kolev!</h1>
 
 <h3 align="left">「📝」About Me:</h3>
