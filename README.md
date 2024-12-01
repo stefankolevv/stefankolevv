@@ -1,26 +1,22 @@
-<h1 align="center">Hello, I'm Stefan Kolev!</h1>
+<!--<h1 align="center">Hello, I'm Stefan Kolev!</h1>-->
 
-<h3 align="left">「📝」About Me:</h3>
+<h2 align="center">「📝」About Me:</h2>
 
-<p align="left">•  Currently a student in <a href='https://softuni.bg'>SoftUni</a>.</p>
-<p align="left">•  Goal: Python Full-Stack Developer.</p>
+<p align="left">✦ Currently a student in <a href='https://softuni.bg'>SoftUni</a>.</p>
+<p align="left">✦ Goal: Python Full-Stack Developer.</p>
 
-<hr>
-
-<h3 align="left">「🔗」Connections:</h3>
+<h2 align="center">「🔗」Connections:</h2>
 
 <div align="center">
 <div id="badges">
-    <a href="https://www.facebook.com/kolevx"><img src="https://img.shields.io/badge/Facebook-111?style=for-the-badge&logo=facebook&logoColor=1877F2" height='25' alt="Facebook Badge"/></a>
-    <a href="https://www.instagram.com/s.kolevv"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=fccc63" height='25' alt="Instagram Badge"/></a>
-    <a href="https://www.linkedin.com/in/kolevx"><img src="https://img.shields.io/badge/Linkedin-111?style=for-the-badge&logo=linkedin&logoColor=0077B5" height='25' alt="LinkedIn Badge"/></a>
-    <a href="https://www.youtube.com/@s.kolevv"><img src="https://img.shields.io/badge/YouTube-111?style=for-the-badge&logo=youtube&logoColor=FF0000" height='25' alt="Youtube Badge"/></a>
+    <a href="https://www.facebook.com/kolevxx"><img src="https://img.shields.io/badge/Facebook-111?style=for-the-badge&logo=facebook&logoColor=white" height='25' alt="Facebook Badge"/></a>
+    <a href="https://www.instagram.com/s.kolevv"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=white" height='25' alt="Instagram Badge"/></a>
+    <a href="https://www.linkedin.com/in/kolevx"><img src="https://img.shields.io/badge/Linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white" height='25' alt="LinkedIn Badge"/></a>
+    <a href="https://www.youtube.com/@s.kolevv"><img src="https://img.shields.io/badge/YouTube-111?style=for-the-badge&logo=youtube&logoColor=white" height='25' alt="Youtube Badge"/></a>
 </div>
   </div>
 
-<hr>
-
-<h3 align="left">「🛠」Languages and Tools:</h3>
+<h2 align="center">「🛠」Languages and Tools:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"  />
@@ -35,9 +31,7 @@
   <img width="12" />
 </div>
 
-<hr>
-
-<h3 align="left">「📊」Stats:</h3>
+<h2 align="center">「📊」Stats:</h2>
 
 <div align="center">
   
