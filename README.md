@@ -9,10 +9,10 @@
 
 <div align="center">
 <div id="badges">
-    <a href="https://www.facebook.com/kolevxx"><img src="https://img.shields.io/badge/Facebook-111?style=for-the-badge&logo=facebook&logoColor=white" height='25' alt="Facebook Badge"/></a>
-    <a href="https://www.instagram.com/s.kolevv"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=white" height='25' alt="Instagram Badge"/></a>
-    <a href="https://www.linkedin.com/in/kolevx"><img src="https://img.shields.io/badge/Linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white" height='25' alt="LinkedIn Badge"/></a>
-    <a href="https://www.youtube.com/@s.kolevv"><img src="https://img.shields.io/badge/YouTube-111?style=for-the-badge&logo=youtube&logoColor=white" height='25' alt="Youtube Badge"/></a>
+    <a href="https://www.facebook.com/stefankolevx"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=blue" height='25' alt="Facebook Badge"/></a>
+    <a href="https://www.instagram.com/stefankolevx"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=yellow" height='25' alt="Instagram Badge"/></a>
+    <a href="https://www.linkedin.com/in/stefankolevx"><img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" height='25' alt="LinkedIn Badge"/></a>
+    <a href="https://www.youtube.com/@stefankolevx"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red" height='25' alt="Youtube Badge"/></a>
 </div>
   </div>
 
@@ -35,5 +35,5 @@
 
 <div align="center">
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolevx&show_icons=true&theme=transparent&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolevx&theme=transparent&border_color=00000000)](https://github.com/stefankolevv/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevx&show_icons=true&theme=transparent&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevx&theme=transparent&border_color=00000000)](https://github.com/stefankolevx/github-readme-stats)
 </div>
